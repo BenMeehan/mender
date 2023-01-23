@@ -1,4 +1,4 @@
-module github.com/mendersoftware/mender
+module github.com/benmeehan/mender
 
 go 1.14
 
